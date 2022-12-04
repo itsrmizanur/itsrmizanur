@@ -36,19 +36,3 @@
 </div>
 
 
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "C++", "C", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Json"},
-    "Database" : { "Sqlite", "MongoDB" },
-    "Editors" : { "Vscode" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Illustrator" }
-  };
-}
-```
-
-
