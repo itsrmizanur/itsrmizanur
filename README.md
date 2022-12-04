@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="./public/dev-working_rounded.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong>Programmer
 
