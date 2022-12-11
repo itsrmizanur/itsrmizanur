@@ -2,7 +2,7 @@
 
 <img src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>Programmer
+  <h1>Programmer<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/itsrmizanur?style=social) 
 
