@@ -12,9 +12,9 @@
 </div>
 
 <div align="center" style="margin-top: 10px">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrmizanur&show_icons=true&locale=en&layout=compact&theme=transparent" alt="itsrmizanur" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrmizanur&show_icons=true&locale=en&layout=compact&theme=darcula" alt="itsrmizanur" /></p>
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsrmizanur&show_icons=true&locale=en&layout=compact&theme=transparent" alt="itsrmizanur" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsrmizanur&show_icons=true&locale=en&layout=compact&theme=darcula" alt="itsrmizanur" /></p>
  </div>
 
 <hr></hr>
