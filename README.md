@@ -35,7 +35,7 @@
 
 
 ## Leadership Skills
-* Asst. Technical Co-Ordinator at <a href="https://www.facebook.com/tpc.tcd">Programming Club, Tejgaon College</a>
+* Asst. Technical Co-Ordinator at <a href="https://www.facebook.com/tpc.tcd">Programming Club, Tejgaon College</a> (20 Nov, 2021 to Present)
 * Founding Member of <a href="https://www.facebook.com/bondhuporibar.org">বন্ধু পরিবার</a>
 
 
